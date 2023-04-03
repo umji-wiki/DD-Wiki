@@ -24,6 +24,20 @@ CE
 EE
 {% endembed %}
 
+#### 其他
+
+{% embed url="https://ioe.engin.umich.edu/undergraduate/" %}
+IOE
+{% endembed %}
+
+{% embed url="https://majors.engin.umich.edu/program/mechanical-engineering/" %}
+ME
+{% endembed %}
+
+{% embed url="https://majors.engin.umich.edu/program/aerospace-engineering/" %}
+AE
+{% endembed %}
+
 ### LSA
 
 {% embed url="https://lsa.umich.edu/math/undergraduates.html" %}
