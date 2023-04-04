@@ -1,5 +1,5 @@
-# 🚧正在施工
+# CV/Resume 模板
 
-该页面目前还没有足够的信息进行展示，
+以下链接所含templates与samples为Professor Nathaniel T. Murray在TC300分享的public source，有需要的同学可以自取。
 
-欢迎参考[README页面](https://powercxx.gitbook.io/dd-wiki/)为DD- Wiki提交你的贡献🎉。
+{% file src="../../.gitbook/assets/templates & samples.zip" %}

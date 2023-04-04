@@ -9,7 +9,7 @@
   * [文书](dd-zhun-bei/wen-shu/README.md)
     * [2019 DD Essay Brainstorm](dd-zhun-bei/wen-shu/undefined.md)
   * [Resume](dd-zhun-bei/resume/README.md)
-    * [🚧正在施工](dd-zhun-bei/resume/undefined.md)
+    * [CV/Resume 模板](dd-zhun-bei/resume/undefined.md)
 * [来密大前](lai-mi-da-qian/README.md)
   * [签证](lai-mi-da-qian/qian-zheng.md)
   * [租房](lai-mi-da-qian/zu-fang/README.md)
