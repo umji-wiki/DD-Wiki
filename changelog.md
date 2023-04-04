@@ -4,6 +4,12 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
+* 2023.04.05 By 黄嘉禾、周思况 —— CV/Resume 模板
+
+{% content-ref url="dd-zhun-bei/resume/undefined.md" %}
+[undefined.md](dd-zhun-bei/resume/undefined.md)
+{% endcontent-ref %}
+
 * 2023.03.28 By 黄嘉禾 —— 常用网站：资源 for prosepective dder
 
 {% content-ref url="fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/" %}
