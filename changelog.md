@@ -4,6 +4,12 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
+* 2023.04.27 By 周思况 ——Why DD
+
+{% content-ref url="dd-zhun-bei/why-dd/undefined.md" %}
+[undefined.md](dd-zhun-bei/why-dd/undefined.md)
+{% endcontent-ref %}
+
 * 2023.04.05 By 黄嘉禾、周思况 —— CV/Resume 模板
 
 {% content-ref url="dd-zhun-bei/resume/undefined.md" %}
