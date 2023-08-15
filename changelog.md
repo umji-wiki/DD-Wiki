@@ -4,6 +4,12 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
+* 2023.08.15 By 黄嘉禾 —— 专业组合学分要求
+
+{% content-ref url="fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/zhuan-ye-zu-he-xue-fen-yao-qiu.md" %}
+[zhuan-ye-zu-he-xue-fen-yao-qiu.md](fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/zhuan-ye-zu-he-xue-fen-yao-qiu.md)
+{% endcontent-ref %}
+
 * 2023.04.27 By 周思况 ——Why DD
 
 {% content-ref url="dd-zhun-bei/why-dd/undefined.md" %}

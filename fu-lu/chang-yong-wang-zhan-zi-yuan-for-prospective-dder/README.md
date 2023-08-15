@@ -9,3 +9,7 @@
 {% content-ref url="re-men-zhuan-ye-pei-yang-fang-an.md" %}
 [re-men-zhuan-ye-pei-yang-fang-an.md](re-men-zhuan-ye-pei-yang-fang-an.md)
 {% endcontent-ref %}
+
+{% content-ref url="zhuan-ye-zu-he-xue-fen-yao-qiu.md" %}
+[zhuan-ye-zu-he-xue-fen-yao-qiu.md](zhuan-ye-zu-he-xue-fen-yao-qiu.md)
+{% endcontent-ref %}

@@ -54,6 +54,7 @@
   * [常用网站:资源 for prospective dder](fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/README.md)
     * [Prerequisites & Basic application steps](fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/undefined.md)
     * [热门专业培养方案](fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/re-men-zhuan-ye-pei-yang-fang-an.md)
+    * [专业组合学分要求](fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/zhuan-ye-zu-he-xue-fen-yao-qiu.md)
   * [常用网站:资源 for current dder](fu-lu/chang-yong-wang-zhan-zi-yuan-for-current-dder/README.md)
     * [🚧正在施工](fu-lu/chang-yong-wang-zhan-zi-yuan-for-current-dder/undefined.md)
 * [🌟Changelog](changelog.md)
