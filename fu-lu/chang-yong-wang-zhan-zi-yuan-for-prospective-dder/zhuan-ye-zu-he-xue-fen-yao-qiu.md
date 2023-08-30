@@ -8,8 +8,8 @@ description: 适用于密院2022级（2024Fall DD）及之后的学生
 
 整理人：李明睿，汤增昊
 
-最近更新：2023.08.18
+最近更新：2023.08.30
 
-{% file src="../../.gitbook/assets/DD credits.xlsx" %}
+{% file src="../../.gitbook/assets/DDcredits beta.xlsx" %}
 部分组合对应培养方案（课程&学分）
 {% endfile %}
