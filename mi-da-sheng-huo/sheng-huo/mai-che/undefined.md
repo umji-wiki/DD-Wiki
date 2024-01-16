@@ -140,7 +140,7 @@ e.g. 3.0T I6 意思是3.0升排量, 涡轮增压, 直列六缸发动机; 5.6L V8
 
 **新车**
 
-对于购买新车, 热门车型(例如Toyota Camry, Carolla或者部分SUV和皮卡)可能有加价的情况. 车辆的价格通常是OTD $\approx$ MSRP+tax(6%)+shipment(以官网为准)+title registration. MSRP是官方指导价, OTD 是落地价 (out-the-door price). 加价的价格会在此基础上加上“加价”, 也就是OTD的价格变高.通常没有现车(inventory中没有)的话订车要3个月左右, 此日期会根据不同品牌, 不同车型而变化
+对于购买新车, 热门车型(例如Toyota Camry, Carolla或者部分SUV和皮卡)可能有加价的情况. 车辆的价格通常是OTD ≈ MSRP+tax(6%)+shipment(以官网为准)+title registration. MSRP是官方指导价, OTD 是落地价 (out-the-door price). 加价的价格会在此基础上加上“加价”, 也就是OTD的价格变高.通常没有现车(inventory中没有)的话订车要3个月左右, 此日期会根据不同品牌, 不同车型而变化
 
 **购买**
 
