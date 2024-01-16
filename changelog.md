@@ -4,6 +4,12 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
+* 2024.01.16 By 周思况&某位供稿同学 —— 密大生活/生活/买车
+
+{% content-ref url="mi-da-sheng-huo/sheng-huo/mai-che/" %}
+[mai-che](mi-da-sheng-huo/sheng-huo/mai-che/)
+{% endcontent-ref %}
+
 * 2023.08.15 By 黄嘉禾 —— 专业组合学分要求
 
 {% content-ref url="fu-lu/chang-yong-wang-zhan-zi-yuan-for-prospective-dder/zhuan-ye-zu-he-xue-fen-yao-qiu.md" %}

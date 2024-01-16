@@ -24,7 +24,7 @@
     * [出游](mi-da-sheng-huo/sheng-huo/chu-you/README.md)
       * [🚧正在施工](mi-da-sheng-huo/sheng-huo/chu-you/undefined.md)
     * [买车](mi-da-sheng-huo/sheng-huo/mai-che/README.md)
-      * [🚧正在施工](mi-da-sheng-huo/sheng-huo/mai-che/undefined.md)
+      * [如何购入一辆适合自己的车？](mi-da-sheng-huo/sheng-huo/mai-che/undefined.md)
     * [社团](mi-da-sheng-huo/sheng-huo/she-tuan/README.md)
       * [🚧正在施工](mi-da-sheng-huo/sheng-huo/she-tuan/undefined.md)
     * [精打细算](mi-da-sheng-huo/sheng-huo/jing-da-xi-suan/README.md)
