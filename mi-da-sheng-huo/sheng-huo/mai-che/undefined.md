@@ -88,9 +88,9 @@ e.g. 3.0T I6 意思是3.0升排量, 涡轮增压, 直列六缸发动机; 5.6L V8
 
 **常用平台:**
 
-* Carvana: 一个二手车买卖公司, 卖的所有二手车都是公司统一购入, 运营模式像京东自营. 缺点是价格会稍微高些, 而且不可以试驾, 优点是质量相对有保证. link: https://www.carvana.com
-* Cargurus: 是一个二手车交易平台, 更像是闲鱼, 但是卖家一般还是dealer (二手商)居多, 个人卖家较少. 优点是价格相对较低, 缺点是质量参差不齐, 最好对车有一定的了解. link: https://www.cargurus.com
-* Carmax: 类似carvana, 但是可以试驾 link: https://www.carmax.com
+* Carvana: 一个二手车买卖公司, 卖的所有二手车都是公司统一购入, 运营模式像京东自营. 缺点是价格会稍微高些, 而且不可以试驾, 优点是质量相对有保证. link: [https://www.carvana.com](https://www.carvana.com)
+* Cargurus: 是一个二手车交易平台, 更像是闲鱼, 但是卖家一般还是dealer (二手商)居多, 个人卖家较少. 优点是价格相对较低, 缺点是质量参差不齐, 最好对车有一定的了解. link: [https://www.cargurus.com](https://www.cargurus.com)
+* Carmax: 类似carvana, 但是可以试驾 link: [https://www.carmax.com](https://www.carmax.com)
 
 **查询carfax报告**
 
