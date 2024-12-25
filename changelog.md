@@ -4,7 +4,7 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
-* 2024.12.25 By 黄嘉禾 —— 科研相关经验贴
+* 2024.12.25 By 黄嘉禾 —— 科研相关经验帖
 
 {% content-ref url="ren-sheng-jing-yan/undefined.md" %}
 [undefined.md](ren-sheng-jing-yan/undefined.md)

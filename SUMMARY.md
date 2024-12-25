@@ -18,7 +18,7 @@
 * [密大生活](mi-da-sheng-huo/README.md)
   * [科研](mi-da-sheng-huo/ke-yan/README.md)
     * [MDP 项目](mi-da-sheng-huo/ke-yan/mdp.md)
-    * [经验贴指路](mi-da-sheng-huo/ke-yan/jing-yan-tie-zhi-lu.md)
+    * [经验帖指路](mi-da-sheng-huo/ke-yan/jing-yan-tie-zhi-lu.md)
   * [生活](mi-da-sheng-huo/sheng-huo/README.md)
     * [做饭](mi-da-sheng-huo/sheng-huo/zuo-fan/README.md)
       * [🚧正在施工](mi-da-sheng-huo/sheng-huo/zuo-fan/zheng-zai-shi-gong.md)
