@@ -1,5 +1,6 @@
-# 🚧正在施工
+# 科研相关
 
-该页面目前还没有足够的信息进行展示，
+来自部分学长学姐：
 
-欢迎参考[README页面](https://powercxx.gitbook.io/dd-wiki/)为DD- Wiki提交你的贡献🎉。
+* [美本转学&科研第一年随笔](https://zhuanlan.zhihu.com/p/13711211620)
+* [陆本转美本+科研一年后的碎碎念](https://zhuanlan.zhihu.com/p/14043718677)

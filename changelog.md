@@ -4,6 +4,18 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
+* 2024.12.25 By 黄嘉禾 —— 科研相关经验贴
+
+{% content-ref url="ren-sheng-jing-yan/undefined.md" %}
+[undefined.md](ren-sheng-jing-yan/undefined.md)
+{% endcontent-ref %}
+
+* 2024.12.25 By 杨子骏 —— 密大生活/生活/做饭
+
+{% content-ref url="mi-da-sheng-huo/sheng-huo/zuo-fan/" %}
+[zuo-fan](mi-da-sheng-huo/sheng-huo/zuo-fan/)
+{% endcontent-ref %}
+
 * 2024.01.16 By 周思况&某位供稿同学 —— 密大生活/生活/买车
 
 {% content-ref url="mi-da-sheng-huo/sheng-huo/mai-che/" %}
@@ -37,7 +49,7 @@ description: 这里会持续跟踪DD-Wiki的更新
 * 2021.06.12 By      —— CE指南
 
 {% content-ref url="mi-da-sheng-huo/xuan-ke/ce_program_guide.md" %}
-[ce\_program\_guide.md](mi-da-sheng-huo/xuan-ke/ce\_program\_guide.md)
+[ce\_program\_guide.md](mi-da-sheng-huo/xuan-ke/ce_program_guide.md)
 {% endcontent-ref %}
 
 * 2021.06.06 By 邱昌元 —— 就业
