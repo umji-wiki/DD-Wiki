@@ -4,6 +4,12 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
+* 2025.02.19 By 黄嘉禾 —— PhD申请经验帖
+
+{% content-ref url="ren-sheng-jing-yan/phd-shen-qing.md" %}
+[phd-shen-qing.md](ren-sheng-jing-yan/phd-shen-qing.md)
+{% endcontent-ref %}
+
 * 2024.12.25 By 黄嘉禾 —— 科研相关经验帖
 
 {% content-ref url="ren-sheng-jing-yan/undefined.md" %}

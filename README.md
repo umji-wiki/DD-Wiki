@@ -4,6 +4,10 @@
 
 Built together with ❤️ by JI students.
 
+## 相关链接
+
+[JIA UM Wiki](https://umsjtu-jia.gitbook.io/dd-wiki)
+
 ## 如何做贡献
 
 DD-wiki 管理人员会定期对你提交的内容进行审核，通过后会汇入 DD-wiki 中。
